@@ -41,3 +41,10 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+*.po
+*.mo
+*.png
+*.jpg
+*.jpeg
+dwsync.xml
+*/dwsync.xml
