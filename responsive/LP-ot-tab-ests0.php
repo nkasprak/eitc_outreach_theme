@@ -22,9 +22,6 @@ if ( !defined('ABSPATH')) exit;
 get_header(); ?>
 
 
-
-<script type="text/javascript">
-
 <?php eitc_script("single",0); ?>
 
 <style>
